@@ -12,6 +12,10 @@
 	<array>
 		<string>/Library/PrivilegedHelperTools/Electron-Blocker.app/Contents/MacOS/electron-blocker</string>
 	</array>
+	<key>StandardOutPath</key>
+	<string>/tmp/com.khronokernel.electron-blocker.daemon.log</string>
+	<key>StandardErrorPath</key>
+	<string>/tmp/com.khronokernel.electron-blocker.daemon.log</string>
 	<key>RunAtLoad</key>
 	<true/>
 </dict>
